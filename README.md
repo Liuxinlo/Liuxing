@@ -11,6 +11,7 @@ Most developers stack subscriptions
 
 The smarter move is stacking hardware
 
+
 Bookmark this before local AI becomes the default
 
 
