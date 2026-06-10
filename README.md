@@ -10,6 +10,7 @@ Ollama plugs directly into Claude Code
 Most developers stack subscriptions
 
 
+
 The smarter move is stacking hardware
 
 
