@@ -19,6 +19,7 @@ Most developers stack subscriptions
 
 
 
+
 The smarter move is stacking hardware
 
 
