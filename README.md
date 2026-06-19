@@ -11,6 +11,7 @@ One $599 Mac Mini already replaces most of a $200/month AI stack
 Code
 
 
+
 Most developers stack subscriptions
 
 
