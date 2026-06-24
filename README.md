@@ -17,6 +17,7 @@ Amazing. Thank you, everyone in Japan! You're the #1 audience outside the U.S. I
 Sandisk and Kioxia. Precision, reliability, decades of excellence. An alliance that coul
 d only be born in Japan.
 
+
 Just hardware stacked at scale
 
 One $599 Mac Mini already replaces most of a $200/month AI stack
